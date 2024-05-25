@@ -19,10 +19,14 @@ Introducing *ResumeMatcher*, the cutting-edge resume matching app designed to st
 Transform your hiring process with ResumeMatcher, the smart solution for connecting you with the right talent faster and more efficiently than ever before. Start your journey to better hires today.
 
 #### Techstack
-Langchain for Llm response and document handling
+Langchain for Llm response and document handling, Langchain csv handler is powered by pandas library and streamlit app runs on OpenAI api
+
 OpenAI api
+
 Streamlit
+
 Pinecone vector database
+
 Pinecone is a cloud based database app that is exclusive to build augment based data driven app powered by Large Language Models they have embedding support of almost any open source or proprietary LLM like openAI gpt4, llama, mistral, cohere and allow us to remotely upload embedding using it's module through langchain library and api connection of pinecone using python.
 
-Langchain csv handler is powered by pandas library and streamlit app runs on OpenAI api
+
